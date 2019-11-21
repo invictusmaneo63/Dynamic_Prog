@@ -122,32 +122,32 @@ fibona/fast:
 	$(MAKE) -f CMakeFiles\fibona.dir\build.make CMakeFiles/fibona.dir/build
 .PHONY : fibona/fast
 
-main.obj: main.cpp.obj
+fib0_memo.obj: fib0_memo.cpp.obj
 
-.PHONY : main.obj
+.PHONY : fib0_memo.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) -f CMakeFiles\fibona.dir\build.make CMakeFiles/fibona.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+fib0_memo.cpp.obj:
+	$(MAKE) -f CMakeFiles\fibona.dir\build.make CMakeFiles/fibona.dir/fib0_memo.cpp.obj
+.PHONY : fib0_memo.cpp.obj
 
-main.i: main.cpp.i
+fib0_memo.i: fib0_memo.cpp.i
 
-.PHONY : main.i
+.PHONY : fib0_memo.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles\fibona.dir\build.make CMakeFiles/fibona.dir/main.cpp.i
-.PHONY : main.cpp.i
+fib0_memo.cpp.i:
+	$(MAKE) -f CMakeFiles\fibona.dir\build.make CMakeFiles/fibona.dir/fib0_memo.cpp.i
+.PHONY : fib0_memo.cpp.i
 
-main.s: main.cpp.s
+fib0_memo.s: fib0_memo.cpp.s
 
-.PHONY : main.s
+.PHONY : fib0_memo.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles\fibona.dir\build.make CMakeFiles/fibona.dir/main.cpp.s
-.PHONY : main.cpp.s
+fib0_memo.cpp.s:
+	$(MAKE) -f CMakeFiles\fibona.dir\build.make CMakeFiles/fibona.dir/fib0_memo.cpp.s
+.PHONY : fib0_memo.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... fibona
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... fib0_memo.obj
+	@echo ... fib0_memo.i
+	@echo ... fib0_memo.s
 .PHONY : help
 
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/fibona.dir/main.cpp.obj"
+  "CMakeFiles/fibona.dir/fib0_memo.cpp.obj"
   "fibona.exe"
   "fibona.exe.manifest"
   "fibona.pdb"

@@ -56,27 +56,27 @@ include CMakeFiles/fibona.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/fibona.dir/flags.make
 
-CMakeFiles/fibona.dir/main.cpp.obj: CMakeFiles/fibona.dir/flags.make
-CMakeFiles/fibona.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Prem Kumar Tiwari\Documents\Dynamic_Prog\fibona\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/fibona.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\fibona.dir\main.cpp.obj -c "C:\Users\Prem Kumar Tiwari\Documents\Dynamic_Prog\fibona\main.cpp"
+CMakeFiles/fibona.dir/fib0_memo.cpp.obj: CMakeFiles/fibona.dir/flags.make
+CMakeFiles/fibona.dir/fib0_memo.cpp.obj: ../fib0_memo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Prem Kumar Tiwari\Documents\Dynamic_Prog\fibona\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/fibona.dir/fib0_memo.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\fibona.dir\fib0_memo.cpp.obj -c "C:\Users\Prem Kumar Tiwari\Documents\Dynamic_Prog\fibona\fib0_memo.cpp"
 
-CMakeFiles/fibona.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fibona.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Prem Kumar Tiwari\Documents\Dynamic_Prog\fibona\main.cpp" > CMakeFiles\fibona.dir\main.cpp.i
+CMakeFiles/fibona.dir/fib0_memo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fibona.dir/fib0_memo.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Prem Kumar Tiwari\Documents\Dynamic_Prog\fibona\fib0_memo.cpp" > CMakeFiles\fibona.dir\fib0_memo.cpp.i
 
-CMakeFiles/fibona.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fibona.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Prem Kumar Tiwari\Documents\Dynamic_Prog\fibona\main.cpp" -o CMakeFiles\fibona.dir\main.cpp.s
+CMakeFiles/fibona.dir/fib0_memo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fibona.dir/fib0_memo.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Prem Kumar Tiwari\Documents\Dynamic_Prog\fibona\fib0_memo.cpp" -o CMakeFiles\fibona.dir\fib0_memo.cpp.s
 
 # Object files for target fibona
 fibona_OBJECTS = \
-"CMakeFiles/fibona.dir/main.cpp.obj"
+"CMakeFiles/fibona.dir/fib0_memo.cpp.obj"
 
 # External object files for target fibona
 fibona_EXTERNAL_OBJECTS =
 
-fibona.exe: CMakeFiles/fibona.dir/main.cpp.obj
+fibona.exe: CMakeFiles/fibona.dir/fib0_memo.cpp.obj
 fibona.exe: CMakeFiles/fibona.dir/build.make
 fibona.exe: CMakeFiles/fibona.dir/linklibs.rsp
 fibona.exe: CMakeFiles/fibona.dir/objects1.rsp

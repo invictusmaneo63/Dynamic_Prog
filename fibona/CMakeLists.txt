@@ -3,4 +3,4 @@ project(fibona)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(fibona main.cpp)
+add_executable(fibona fib0_memo.cpp)

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Prem Kumar Tiwari/Documents/Dynamic_Prog/fibona/main.cpp" "C:/Users/Prem Kumar Tiwari/Documents/Dynamic_Prog/fibona/cmake-build-debug/CMakeFiles/fibona.dir/main.cpp.obj"
+  "C:/Users/Prem Kumar Tiwari/Documents/Dynamic_Prog/fibona/fib0_memo.cpp" "C:/Users/Prem Kumar Tiwari/Documents/Dynamic_Prog/fibona/cmake-build-debug/CMakeFiles/fibona.dir/fib0_memo.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
