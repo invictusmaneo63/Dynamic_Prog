@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Prem Kumar Tiwari/Documents/Dynamic_Prog/long_sub_sequence/llong_sub_sequ.cpp
+iostream
+-
+vector
+-
+

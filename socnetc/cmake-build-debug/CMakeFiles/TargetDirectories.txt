@@ -1,0 +1,3 @@
+C:/Users/Prem Kumar Tiwari/Documents/Dynamic_Prog/socnetc/cmake-build-debug/CMakeFiles/socnetc.dir
+C:/Users/Prem Kumar Tiwari/Documents/Dynamic_Prog/socnetc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Prem Kumar Tiwari/Documents/Dynamic_Prog/socnetc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
