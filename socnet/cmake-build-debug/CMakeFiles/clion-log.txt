@@ -1,0 +1,4 @@
+"C:\Users\Prem Kumar Tiwari\AppData\Local\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Prem Kumar Tiwari\Documents\Dynamic_Prog\socnet"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Prem Kumar Tiwari/Documents/Dynamic_Prog/socnet/cmake-build-debug

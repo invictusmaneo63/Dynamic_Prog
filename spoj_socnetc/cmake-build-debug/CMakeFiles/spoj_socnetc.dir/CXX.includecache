@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Prem Kumar Tiwari/Documents/Dynamic_Prog/spoj_socnetc/socnetc.cpp
+unordered_map
+-
+iostream
+-
+

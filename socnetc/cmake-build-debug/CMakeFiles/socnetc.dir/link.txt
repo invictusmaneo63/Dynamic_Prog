@@ -1,3 +1,0 @@
-"C:\Users\Prem Kumar Tiwari\AppData\Local\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\socnetc.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\socnetc.dir/objects.a @CMakeFiles\socnetc.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\socnetc.dir/objects.a -Wl,--no-whole-archive  -o socnetc.exe -Wl,--out-implib,libsocnetc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\socnetc.dir\linklibs.rsp
